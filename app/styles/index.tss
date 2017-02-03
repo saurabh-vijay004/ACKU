@@ -8,12 +8,11 @@
 	color: "#000"
 }
 
-
-
 "#webView":{
-	
-    url: 'http://ackustag.iksulabeta.com/',
+    url: 'http://ackustag.iksulabeta.com',
     enableZoomControls: false
-	
-	
+}
+
+"#webView[platform=ios]":{
+    top : 20
 }
