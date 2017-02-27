@@ -1,5 +1,9 @@
 <Alloy>
 	<Window class="container">
 		<WebView id="webView" ></WebView>
+		<View height="50dp" bottom="0dp" backgroundColor="#66808080">
+			<Button id="back" bottom="5dp" left="20dp" opacity="0.3" onClick="goBack">Back</Button>
+			<Button id="fwd" bottom="5dp" right="20dp" opacity="0.3" onClick="goFwd">Forward</Button>
+		</View>
 	</Window>
 </Alloy>

@@ -9,10 +9,11 @@
 }
 
 "#webView":{
-    url: 'http://ackustag.iksulabeta.com',
-    enableZoomControls: false
+    url: 'http://ackudev.iksulabeta.com',
+    enableZoomControls: false,
+    bottom : '50dp'
 }
 
 "#webView[platform=ios]":{
-    top : 20
+    top : '20dp'
 }
