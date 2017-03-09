@@ -2,9 +2,9 @@
 <ti:app xmlns:ti="http://ti.appcelerator.org">
     <id>com.acku.mobileapp</id>
     <name>ACKU</name>
-    <version>1.0</version>
+    <version>0.6</version>
     <publisher>Swa</publisher>
-    <url>undefined</url>
+    <url>http://www.swa.com</url>
     <description>Swa</description>
     <copyright>2017 by Swa</copyright>
     <icon>appicon.png</icon>
@@ -14,7 +14,7 @@
     <guid>56b70f92-8b1c-4cc5-9ddd-c9e33236c04e</guid>
     <!--<property name="ti.ui.defaultunit" type="string">dp</property>-->
     <ios>
-        <enable-launch-screen-storyboard>true</enable-launch-screen-storyboard>
+        <enable-launch-screen-storyboard>false</enable-launch-screen-storyboard>
         <plist>
             <dict>
                 <key>UISupportedInterfaceOrientations~iphone</key>
