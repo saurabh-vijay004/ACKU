@@ -11,7 +11,8 @@
 "#webView":{
     // url: 'http://ackustag.iksulabeta.com',
     // url: 'http://afghanistanlawy2wsw6fosa.devcloud.acquia-sites.com',
-    url : 'http://test-law.acku.edu.af',
+    // url : 'http://test-law.acku.edu.af', // Stage
+    url : 'http://law.acku.edu.af', // Live
     enableZoomControls: false,
     bottom : '50dp'
 }
